@@ -1,0 +1,14 @@
+/Users/ravan/Documents/8.DSfoftware/BinaryCheckTask/bin/Debug/net8.0/BinaryCheckTask
+/Users/ravan/Documents/8.DSfoftware/BinaryCheckTask/bin/Debug/net8.0/BinaryCheckTask.deps.json
+/Users/ravan/Documents/8.DSfoftware/BinaryCheckTask/bin/Debug/net8.0/BinaryCheckTask.runtimeconfig.json
+/Users/ravan/Documents/8.DSfoftware/BinaryCheckTask/bin/Debug/net8.0/BinaryCheckTask.dll
+/Users/ravan/Documents/8.DSfoftware/BinaryCheckTask/bin/Debug/net8.0/BinaryCheckTask.pdb
+/Users/ravan/Documents/8.DSfoftware/BinaryCheckTask/obj/Debug/net8.0/BinaryCheckTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravan/Documents/8.DSfoftware/BinaryCheckTask/obj/Debug/net8.0/BinaryCheckTask.AssemblyInfoInputs.cache
+/Users/ravan/Documents/8.DSfoftware/BinaryCheckTask/obj/Debug/net8.0/BinaryCheckTask.AssemblyInfo.cs
+/Users/ravan/Documents/8.DSfoftware/BinaryCheckTask/obj/Debug/net8.0/BinaryCheckTask.csproj.CoreCompileInputs.cache
+/Users/ravan/Documents/8.DSfoftware/BinaryCheckTask/obj/Debug/net8.0/BinaryCheckTask.dll
+/Users/ravan/Documents/8.DSfoftware/BinaryCheckTask/obj/Debug/net8.0/refint/BinaryCheckTask.dll
+/Users/ravan/Documents/8.DSfoftware/BinaryCheckTask/obj/Debug/net8.0/BinaryCheckTask.pdb
+/Users/ravan/Documents/8.DSfoftware/BinaryCheckTask/obj/Debug/net8.0/BinaryCheckTask.genruntimeconfig.cache
+/Users/ravan/Documents/8.DSfoftware/BinaryCheckTask/obj/Debug/net8.0/ref/BinaryCheckTask.dll
